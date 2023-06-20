@@ -6,4 +6,3 @@
 
 ### Projetos
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=felipesetup&repo=TikTok&theme=radical)](https://github.com/felipesetup/TikTok)
-
